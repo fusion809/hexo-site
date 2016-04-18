@@ -1,0 +1,7 @@
+---
+title:   "Free Operating Systems: A Comparison and Overview"
+date:    2016-04-19 +1000
+layout:  post
+---
+
+In modern times it seems like everyday we encounter some type of **computer** in our day-to-day lives. Many people think that a computer is either a desktop or laptop, but this is untrue, as smartphones and tablets are also computers. Smartphones and tablets are examples of **mobile devices** (**MDs**), while desktop and laptop computers (and variants thereof, like workstations and notebooks, respectively) are so called **personal computers** (**PCs**). This post is primarily about operating systems used by PCs and not mobile devices. 
