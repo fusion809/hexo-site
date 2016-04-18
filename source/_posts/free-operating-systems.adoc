@@ -1,0 +1,7 @@
+---
+title:   "Free Operating Systems: A Comparison and Overview"
+date:    2016-04-19 +1000
+layout:  post
+---
+
+In modern times it seems like everyday we encounter some type of *personal computer* (PC) in our day-to-day lives. Many people think that a PC is either a desktop or laptop computer but this is untrue, as smartphones and tablets are also PCs.
