@@ -1,0 +1,653 @@
+INFO  Start processing
+ERROR Process failed: layout/archive.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/category.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/index.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/layout.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/page.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/post.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/tag.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/after-footer.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/article.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/archive-post.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/archive.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/footer.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/google-analytics.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/mobile-nav.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/header.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/head.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/sidebar.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_widget/archive.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_widget/category.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_widget/recent_posts.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_widget/tag.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_widget/tagcloud.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/category.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/gallery.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/date.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/nav.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/tag.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+ERROR Process failed: layout/_partial/post/title.ejs
+TypeError: Cannot read property 'compile' of undefined
+    at View._precompile (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:104:22)
+    at View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/view.js:13:8)
+    at new Theme._View.View (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:37:10)
+    at Theme.setView (/home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/index.js:71:20)
+    at /home/fusion809/GitHub/hexo-site/node_modules/hexo/lib/theme/processors/view.js:14:14
+    at tryCatcher (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:502:31)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at Promise._resolveCallback (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:423:57)
+    at Promise._settlePromiseFromHandler (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:514:17)
+    at Promise._settlePromise (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:559:18)
+    at Promise._settlePromise0 (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:604:10)
+    at Promise._settlePromises (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:683:18)
+    at Promise._fulfill (/home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/promise.js:628:18)
+    at /home/fusion809/GitHub/hexo-site/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/fusion809/GitHub/hexo-site/node_modules/graceful-fs/graceful-fs.js:78:16
+    at tryToString (fs.js:414:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:401:12)
+INFO  Files loaded in 657 ms
+WARN  No layout: 2016/04/19/free-operating-systems/index.html
+WARN  No layout: 2016/04/09/hello-world/index.html
+WARN  No layout: archives/index.html
+WARN  No layout: archives/2016/index.html
+WARN  No layout: archives/2016/04/index.html
+WARN  No layout: index.html
+INFO  0 files generated in 93 ms
