@@ -81,7 +81,9 @@ plugins:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/fusion809/hexo-site
-  branch: gh-pages
-  message: "deploying"
+  type:    git
+  repo:    git@github.com:fusion809/hexo-site.git
+  branch:  gh-pages
+  message: "Revising"
+  name:    fusion809
+  email:   brentonhorne77@gmail.com
