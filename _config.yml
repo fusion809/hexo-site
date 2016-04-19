@@ -73,6 +73,8 @@ plugins:
 - hexo-generator-sitemap
 - hexo-generator-tag
 - hexo-renderer-ejs
+- hexo-renderer-marked
+- hexo-renderer-stylus
 - hexo-server
 
 
