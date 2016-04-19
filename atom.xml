@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Hornery</title>
+  
+  <link href="/hexo-site/atom.xml" rel="self"/>
+  
+  <link href="http://fusion809.github.io/hexo-site/"/>
+  <updated>2016-04-18T23:48:24.811Z</updated>
+  <id>http://fusion809.github.io/hexo-site/</id>
+  
+  <author>
+    <name>Brenton Horne</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Free Operating Systems: A Comparison and Overview</title>
+    <link href="http://fusion809.github.io/hexo-site/2016/04/19/free-operating-systems/"/>
+    <id>http://fusion809.github.io/hexo-site/2016/04/19/free-operating-systems/</id>
+    <published>2016-04-18T23:48:24.811Z</published>
+    <updated>2016-04-18T23:48:24.811Z</updated>
+    
+    <content type="html">&lt;p&gt;In modern times it seems like everyday we encounter some type of &lt;strong&gt;computer&lt;/strong&gt; in our day-to-day lives. Many people think that a computer is either a desktop or laptop, but this is untrue, as smartphones and tablets are also computers. Smartphones and tablets are examples of &lt;strong&gt;mobile devices&lt;/strong&gt; (&lt;strong&gt;MDs&lt;/strong&gt;), while desktop and laptop computers (and variants thereof, like workstations and notebooks, respectively) are so called &lt;strong&gt;personal computers&lt;/strong&gt; (&lt;strong&gt;PCs&lt;/strong&gt;). Before I proceed any further it is important that I clear up some basic terminology.&lt;/p&gt;
+&lt;h2 id=&quot;Preliminary-Information&quot;&gt;&lt;a href=&quot;#Preliminary-Information&quot; class=&quot;headerlink&quot; title=&quot;Preliminary Information&quot;&gt;&lt;/a&gt;Preliminary Information&lt;/h2&gt;&lt;p&gt;The physical components of MDs and PCs, such as the Central Processing Unit (CPU), Hard Disk Drive (HDD), Random-Access Memory (RAM) devices, Wi-Fi chips (which are especially common in laptops and mobile devices) and graphics cards, are referred to as the computer’s &lt;strong&gt;hardware&lt;/strong&gt;. While the data contained on the computer’s HDD, including the various programs that users use to interact with the computer, is referred to as &lt;strong&gt;software&lt;/strong&gt;. Both MDs and PCs have installed on them a very basic, yet also very important piece of software known as an &lt;strong&gt;operating system&lt;/strong&gt; (&lt;strong&gt;OS&lt;/strong&gt;). The OS is what coordinates all communication between the computer’s hardware and its software. It is this piece of software that this post is concerned with, specificially operating systems that run on PCs. The single most important component to any operating system is its &lt;strong&gt;kernel&lt;/strong&gt;, which is the most basic part of the OS. Without it communication with the hardware would be impossible.&lt;/p&gt;
+&lt;p&gt;It is also important to understand that computer programs are created from &lt;strong&gt;source code&lt;/strong&gt;, which is written in a special type of language (a &lt;strong&gt;programming language&lt;/strong&gt;), analogously to how human languages are used to construct the content of books and letters. Programming languages are designed to be both human- and machine-readable, so that they can be easily written and understood by humans, but also easily interpreted and executed by the processors of computers. One way that programs can be classed is by the availability of their source code to the general public. Open-source programs (or &lt;strong&gt;open-source software&lt;/strong&gt; or &lt;strong&gt;OSS&lt;/strong&gt;) have their source code released publically and freely, so that anyone can access their source code, learn from it, teach with it, modify and expand on it, and develop new programs from it. These rights are provided by various open-source software licenses, such as the Apache License, BSD Licenses, GNU General Public License (GPL), MIT License, &lt;em&gt;etc.&lt;/em&gt; Closed-source programs do not afford users these rights and rather the source code is proprietary information, that is controlled by the copyright holder (usually the company that develops said program).&lt;/p&gt;
+&lt;h2 id=&quot;Popular-Operating-Systems&quot;&gt;&lt;a href=&quot;#Popular-Operating-Systems&quot; class=&quot;headerlink&quot; title=&quot;Popular Operating Systems&quot;&gt;&lt;/a&gt;Popular Operating Systems&lt;/h2&gt;&lt;p&gt;The most popular PC operating systems include (in descending order, that is, from most popular to least popular; note also that many of these operating systems are not actually singular, but refer rather to a whole family of related operating systems):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Windows NT&lt;/strong&gt;, such as Windows XP, Vista, 7, 8 and 10.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OS X&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;, such as Arch Linux, CentOS, Debian, Fedora, openSUSE and Ubuntu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FreeBSD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenBSD&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NetBSD&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While the most popular mobile operating systems are (in descending order, again):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Android&lt;/strong&gt; (which in itself is a variant of Linux)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iOS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows 10 Mobile&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Free-Operating-Systems&quot;&gt;&lt;a href=&quot;#Free-Operating-Systems&quot; class=&quot;headerlink&quot; title=&quot;Free Operating Systems&quot;&gt;&lt;/a&gt;Free Operating Systems&lt;/h2&gt;&lt;p&gt;My personal preference when it comes to PC operating systems are free, Unix-like ones such as FreeBSD, Linux, NetBSD and OpenBSD. Although Windows NT and OS X dominate the usage share of PC operating systems, with Linux taking up less than 2% of the usage share overall. This article is devoted to free operating systems and by free I mean they satisfy the following criteria:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They &lt;strong&gt;cost the end-user absolutely nothing&lt;/strong&gt; to download the installation media and install.&lt;/li&gt;
+&lt;li&gt;They are at least &lt;strong&gt;predominantly made of open-source software&lt;/strong&gt; (OSS). Any non-OSS included in this system is at least freeware and &lt;strong&gt;not&lt;/strong&gt; trialware or freemium.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In modern times it seems like everyday we encounter some type of &lt;strong&gt;computer&lt;/strong&gt; in our day-to-day lives. Many people think tha
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://fusion809.github.io/hexo-site/2016/04/09/hello-world/"/>
+    <id>http://fusion809.github.io/hexo-site/2016/04/09/hello-world/</id>
+    <published>2016-04-09T10:03:14.614Z</published>
+    <updated>2016-04-09T10:03:14.614Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
