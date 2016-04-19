@@ -1,3 +1,9 @@
 [submodule "themes/hueman"]
 	path = themes/hueman
 	url = https://github.com/ppoffice/hexo-theme-hueman
+[submodule "hexo-theme-landscape"]
+	path = hexo-theme-landscape
+	url = https://github.com/hexojs/hexo-theme-landscape
+[submodule "themes/landscape"]
+	path = themes/landscape
+	url = https://github.com/hexojs/hexo-theme-landscape
