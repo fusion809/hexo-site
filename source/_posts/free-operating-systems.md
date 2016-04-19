@@ -1,6 +1,6 @@
 ---
 title:   "Free Operating Systems: A Comparison and Overview"
-date:    2016-04-19 +1000
+date:    2016-04-22 +1000
 layout:  post
 ---
 
@@ -23,7 +23,7 @@ The most popular PC operating systems include (in descending order, that is, fro
 
 While the most popular mobile operating systems are (in descending order, again):
 
-* **Android** (which in itself is a variant of Linux)
+* **Android**[^1]
 * **iOS**
 * **Windows 10 Mobile**
 
@@ -32,3 +32,6 @@ My personal preference when it comes to PC operating systems are free, Unix-like
 
 * They **cost the end-user absolutely nothing** to download the installation media and install.
 * They are at least **predominantly made of open-source software** (OSS). Any non-OSS included in this system is at least freeware and **not** trialware or freemium.
+
+## Footnotes
+[^1]: Which in itself is a variant of Linux
