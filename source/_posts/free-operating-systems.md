@@ -58,4 +58,5 @@ Presently the most popular free Unix-like operating systems can be split into th
 * Linux distributions
 * Miscellaneous others such as Redox (written in Rust)
 
+## Footnotes
 [^1]: Which in itself is a variant, or *distribution* of Linux.
