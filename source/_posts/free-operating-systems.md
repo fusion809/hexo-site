@@ -1,6 +1,6 @@
 ---
 title:   "Free Operating Systems: A Comparison and Overview"
-date:    2016-04-22 +1000
+date:    2016-04-30 +1000
 layout:  post
 ---
 
