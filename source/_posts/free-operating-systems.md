@@ -4,6 +4,8 @@ date:    2016-04-22 +1000
 layout:  post
 ---
 
+*Note:* This post is presently just a draft.<br/>
+
 In modern times it seems like everyday we encounter some type of **computer** in our day-to-day lives. Many people think that a computer is either a desktop or laptop, but this is untrue, as smartphones and tablets are also computers. Smartphones and tablets are examples of **mobile devices** (**MDs**), while desktop and laptop computers (and variants thereof, like workstations and notebooks, respectively) are so called **personal computers** (**PCs**). Before I proceed any further it is important that I clear up some basic terminology.
 
 ## Basics
