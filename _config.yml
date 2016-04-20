@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
-favicon: /hexo-site/favicon.ico
+favicon: /favicon.ico
 plugins:
 - hexo-admin
 - hexo-deployer-git
