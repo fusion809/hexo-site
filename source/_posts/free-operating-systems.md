@@ -25,7 +25,7 @@ The most popular PC operating systems include (in descending order, that is, fro
 
 While the most popular mobile operating systems are (in descending order, again):
 
-* **Android**<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
+* **Android**[^1]
 * **iOS**
 * **Windows 10 Mobile**
 
@@ -58,8 +58,4 @@ Presently the most popular free Unix-like operating systems can be split into th
 * Linux distributions
 * Miscellaneous others such as Redox (written in Rust)
 
-## Footnotes
-<ol>
-  <li id="fn:1">Which in itself is a variant, or *distribution* of Linux.<a href="#fnref:1" class="reversefootnote">↩</a></li>
-  <li id="fn:2"></li>
-</ol>
+[^1]: Which in itself is a variant, or *distribution* of Linux.

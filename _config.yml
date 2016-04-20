@@ -72,10 +72,19 @@ plugins:
 - hexo-generator-sitemap
 - hexo-generator-tag
 - hexo-renderer-ejs
-- hexo-renderer-marked
+- hexo-renderer-markdown-it
 - hexo-renderer-stylus
 - hexo-server
 
+# Markdown-it config
+## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki/
+markdown:
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
