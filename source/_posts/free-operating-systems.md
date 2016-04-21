@@ -92,26 +92,32 @@ while those I have used on a virtual machine (not including those I have also us
 ### The Questionaire
 **Question 1:**
 
-How would you rate your computer competence and technical abilities, especially with respect to programming, software development, picking up new programs and technical skills, on a scale of 1 to ten? With 1 being totally incompetent, struggling to even turn a computer on and need help with every task. 10 being a skilled and seasoned programmer, that can pick up new programs and develop new software even when incredibly tired or intoxicated. This result is to be called by the variable {% math %}Q_1{% endmath %}.
+How would you rate your computer competence and technical abilities, especially with respect to programming, software development, picking up new programs and technical skills, on a scale of 1 to ten? With 1 being totally incompetent, struggling to even turn a computer on and need help with every task. 10 being a skilled and seasoned programmer, that can pick up new programs and develop new software even when incredibly tired or intoxicated. This result is to be called by the variable $Q_1$.
 
 **Question 2:**
 
-How much time are you willing to invest on learning Linux and setting up a Linux system, on a scale of 1 to 10? 1 being no time, 10 being as long as it takes, even if it takes countless weeks of 10-hour days. This result is to be called by the variable <code>Q<sub>2</sup></code>.
+How much time are you willing to invest on learning Linux and setting up a Linux system, on a scale of 1 to 10? 1 being no time, 10 being as long as it takes, even if it takes countless weeks of 10-hour days. This result is to be called by the variable $Q_2$.
 
 **Question 3:**
 
-How much past experience have you had with &#42;nix systems, including Apple's OS X on a scale of 1 to 10? With 1 being you have never even started a &#42;nix system and 10 being, they are all you use. This result is to be called by the variable <code>Q<sub>3</sup></code>.
+How much past experience have you had with &#42;nix systems, including Apple's OS X on a scale of 1 to 10? With 1 being you have never even started a &#42;nix system and 10 being, they are all you use. This result is to be called by the variable $Q_3$.
 
 **Question 4:**
 
-How comfortable are you with the command-line (or command prompt on Windows)? Please also rate this one on a scale from 1 to 10. 1 being you have never even heard of the command-line and 10 being you are totally at-ease with it. This result is to be called by the variable <code>Q<sub>4</sup></code>.
+How comfortable are you with the command-line (or command prompt on Windows)? Please also rate this one on a scale from 1 to 10. 1 being you have never even heard of the command-line and 10 being you are totally at-ease with it. This result is to be called by the variable $Q_4$.
 
 **Question 5:**
 
-How patient are you? Are you willing to be irritated by your computer not doing what you want it to, on an hourly basis? Please also rate this on a scale of 1 to 10. 1 being you are liable to throw your computer out the window at the first irritation and 10 being you are the master of this particular virtue. This result is to be called by the variable <code>Q<sub>5</sup></code>.
+How patient are you? Are you willing to be irritated by your computer not doing what you want it to, on an hourly basis? Please also rate this on a scale of 1 to 10. 1 being you are liable to throw your computer out the window at the first irritation and 10 being you are the master of this particular virtue. This result is to be called by the variable $Q_5$.
 
 ### The Results
-If the total of the results of question 1 and 2 is &geq;11.
+Let us define:
+
+$$ \begin{align} Q_{i,j} & = Q_i + Q_j & \\\\  Q_{i,j,k} & =  Q_i + Q_j + Q_k & \\\\  Q_{i,j,k,l} & = Q_i + Q_j + Q_k + Q_l & \end{align} $$
+
+and so forth. Then if:
+
+$$ Q_{1,2} \geq 11 $$
 
 ## Footnotes
 [^1]: Which in itself is a variant, or *distribution* of Linux.
