@@ -78,16 +78,40 @@ I personally have used the following &#42;BSDs (all from the safety of a Virtual
 The older &#42;BSDs: DragonflyBSD, FreeBSD, NetBSD and OpenBSD are all devoid of a GUI by default, rather they need to be installed from the command-line. Fortunately, however, they also all come with command-line installers that vastly simplify the process of installing them. Of them FreeBSD is, by far, the most popular and also the easiest to work with, in my limited experience. FreeBSD also has better documentation, in my opinion, than other &#42;BSDs.
 
 ## Linux Distributions
-Linux distributions are the systems I have far greater experience with, in fact, in the past four years since I started using Ubuntu on my old Dell Laptop, I would say that at least 60% of my time on a PC has been spent using Linux. Hence I will speak at greater length about them, than about the &#42;BSDs. The Linux distributions I have used on an actual computer (as opposed to on a virtual machine) include (with an estimate of how long I spent using each):
+**Linux distributions** are the systems I have far greater experience with, in fact, in the past four years since I started using Ubuntu on my old Dell Laptop, I would say that at least 60% of my time on a PC has been spent using Linux. Hence I will speak at greater length about them, than about the &#42;BSDs. The Linux distributions I have used on an actual computer (as opposed to on a virtual machine) include (with an estimate of how long I spent using each):
 
-* Arch Linux &mdash; which I am presently using and have spent at least three months using as my primary OS.
-* Fedora &mdash; which I have spent less than a week using.
-* Manjaro Linux &mdash; which I have spent at most a fortnight using.
-* openSUSE Tumbleweed &mdash; which I have spent about a fortnight using.
-* Sabayon Linux &mdash; I spent >3 months using this system.
-* Ubuntu &mdash; I spent roughly 1-3 years using this one (on and off, I switched a lot between it and Windows 7)
+* **Arch Linux** &mdash; which I am presently using and have spent at least three months using as my primary OS.
+* **Fedora** &mdash; which I have spent less than a week using.
+* **Manjaro Linux** &mdash; which I have spent at most a fortnight using.
+* **openSUSE Tumbleweed** &mdash; which I have spent about a fortnight using.
+* **Sabayon Linux** &mdash; I spent >3 months using this system.
+* **Ubuntu** &mdash; I spent roughly 1-3 years using this one (on and off, I switched a lot between it and Windows 7)
 
-while those I have used on a virtual machine (not including those I have also used on an actual computer) are far more numerous and are mentioned in a list on the [About Me Page](https://fusion809.github.io/about-me/) of this blog. 
+while those I have used on a virtual machine (not including those I have also used on an actual computer) are far more numerous and are mentioned in a list on the [About Me Page](https://fusion809.github.io/about-me/) of this blog. When someone ask a Linux enthusiast, "What's the best Linux distribution?" They quite often will roll their eyes, as the question is akin to asking, "What's the best food?" There maybe a best distribution (or analogously a best food item) for an individual person, in a particular context or situation, but there is no "best distribution", in general. My favourite distributions would be Arch Linux, openSUSE Tumbleweed and Sabayon Linux, but that is with regard to how I use them and not a general, all-situation-inclusive assessment of them. If you want to know which distribution you should use you should first try to complete this questionare:
+
+### The Questionaire
+**Question 1:**
+
+How would you rate your computer competence and technical abilities, especially with respect to programming, software development, picking up new programs and technical skills, on a scale of 1 to ten? With 1 being totally incompetent, struggling to even turn a computer on and need help with every task. 10 being a skilled and seasoned programmer, that can pick up new programs and develop new software even when incredibly tired or intoxicated. This result is to be called by the variable {% math %}Q_1{% endmath %}.
+
+**Question 2:**
+
+How much time are you willing to invest on learning Linux and setting up a Linux system, on a scale of 1 to 10? 1 being no time, 10 being as long as it takes, even if it takes countless weeks of 10-hour days. This result is to be called by the variable <code>Q<sub>2</sup></code>.
+
+**Question 3:**
+
+How much past experience have you had with &#42;nix systems, including Apple's OS X on a scale of 1 to 10? With 1 being you have never even started a &#42;nix system and 10 being, they are all you use. This result is to be called by the variable <code>Q<sub>3</sup></code>.
+
+**Question 4:**
+
+How comfortable are you with the command-line (or command prompt on Windows)? Please also rate this one on a scale from 1 to 10. 1 being you have never even heard of the command-line and 10 being you are totally at-ease with it. This result is to be called by the variable <code>Q<sub>4</sup></code>.
+
+**Question 5:**
+
+How patient are you? Are you willing to be irritated by your computer not doing what you want it to, on an hourly basis? Please also rate this on a scale of 1 to 10. 1 being you are liable to throw your computer out the window at the first irritation and 10 being you are the master of this particular virtue. This result is to be called by the variable <code>Q<sub>5</sup></code>.
+
+### The Results
+If the total of the results of question 1 and 2 is &geq;11.
 
 ## Footnotes
 [^1]: Which in itself is a variant, or *distribution* of Linux.
