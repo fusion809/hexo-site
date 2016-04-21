@@ -113,7 +113,7 @@ How patient are you? Are you willing to be irritated by your computer not doing 
 ### The Results
 Let us define:
 
-$$ \begin{align} Q_{i,j} & = Q_i + Q_j & \\\\  Q_{i,j,k} & =  Q_i + Q_j + Q_k & \\\\  Q_{i,j,k,l} & = Q_i + Q_j + Q_k + Q_l & \end{align} $$
+$$ \begin{align} Q_{i,j} & = Q_i + Q_j & \\\\ Q_{i,j,k} & = Q_i + Q_j + Q_k & \\\\ Q_{i,j,k,l} & = Q_i + Q_j + Q_k + Q_l & \end{align} $$
 
 and so forth. Then if:
 
