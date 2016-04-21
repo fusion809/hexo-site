@@ -119,5 +119,11 @@ and so forth. Then if:
 
 $$ Q_{1,2} \geq 11 $$
 
+or if:
+
+$$ Q_{1,2,3} \geq 17 $$
+
+Provided either of the above conditions are satisfied then if $ 3 \lesssim Q_5 \lesssim 7 $ your ideal operating system is likely Arch Linux. It has some of the best written documentation of any free &#42;nix system, but it does require you to build your system from the ground-up. Else if $ Q_5 \gtrsim 7 $ then your ideal OS is likely Gentoo Linux. Alternatively, if, $ Q_5 \lesssim $ then your ideal OS is likely CentOS Debian, Fedora, Manjaro Linux, openSUSE or Sabayon Linux. If package development is important to you then you may prefer Manjaro Linux. CentOS and Debian are for those that want a particularly stable system, but are willing to use fairly old software. Fedora and openSUSE are for those that want a more up-to-date system, but still a fairly stable one. Manjaro and Sabayon Linux are for those that want a very up-to-date, but potentially-unstable system. Manjaro Linux has vaster software repositories, however, and superior free support. 
+
 ## Footnotes
 [^1]: Which in itself is a variant, or *distribution* of Linux.
