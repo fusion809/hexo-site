@@ -52,11 +52,42 @@ In 1991, however, Linus Torvalds, a then 21-year-old computer science student pu
 Before BSD's official development ceased, and after its source code was made open-source a few free forks were developed of which FreeBSD, NetBSD and OpenBSD are the most notable ones that are still under active development.
 
 ## Free &#42;nix Systems
-Presently the most popular free Unix-like operating systems can be split into the following three categories:
+Presently the most popular free &#42;nix operating systems can be split into the following two categories:
 
 * &#42;BSDs such as FreeBSD, NetBSD and OpenBSD and derivatives thereof.
 * Linux distributions
-* Miscellaneous others such as Redox (written in Rust)
+
+the remaining free &#42;nix systems are less popular and include Redox. This post will pay vastly more attention to the Linux distributions and &#42;BSDs, than these minority free &#42;nix systems.
+
+## &#42;BSDs
+The free **&#42;BSDs** are usually used by more advanced users, especially users working on servers. This is because of three main factors:
+
+1. They almost universally need to be installed and configured from the command-line. The most notable exceptions are desktop-oriented FreeBSD derivatives such as GhostBSD and PC-BSD. Even with these systems, the command-line is still an integral part to the system and must be used for more advanced tasks.
+2. While some may support a graphical user interface (GUI), such as KDE Plasma or GNOME, most require a pretty solid understanding of the command-line in order for one to get the stage of being able to use a GUI.
+3. They are minority operating systems for PCs, that are used even less frequently than Linux, hence fewer popular applications such as Netflix and Spotify are officially supported by them. This lack of popularity also means that free support can be more challenging to get off forums, Q&A websites, *etc.*
+
+I personally have used the following &#42;BSDs (all from the safety of a VirtualBox VM, though, so my experience is numbered in minutes or, at most, hours):
+
+* **DragonFlyBSD** &mdash; this one I have the least experience with.
+* **FreeBSD** &mdash; this one I have the greatest level of experience with.
+* **GhostBSD** &mdash; this one I have used for at most an hour. Mostly because it is comparatively out-of-date compared to the other desktop-oriented FreeBSD derivative, PC-BSD, that I have used. Despite this, if you want to ease yourself into using a &#42;BSD system from a background of using Windows or other GUI-oriented operating systems (like OS X and more beginner-friendly Linux distributions like Ubuntu), I would definitely suggest you start with GhostBSD or, at-least PC-BSD.
+* **NetBSD** &mdash; I have hardly used this one, a fact best illustrated by the fact that I have not yet figured out how to do package management on it.
+* **OpenBSD** &mdash; this one I have used more than NetBSD, but still have &lt;2 hours experience with.
+* **PC-BSD** &mdash; this one is second to FreeBSD, in terms of my level of experience with it.
+
+The older &#42;BSDs: DragonflyBSD, FreeBSD, NetBSD and OpenBSD are all devoid of a GUI by default, rather they need to be installed from the command-line. Fortunately, however, they also all come with command-line installers that vastly simplify the process of installing them. Of them FreeBSD is, by far, the most popular and also the easiest to work with, in my limited experience. FreeBSD also has better documentation, in my opinion, than other &#42;BSDs.
+
+## Linux Distributions
+Linux distributions are the systems I have far greater experience with, in fact, in the past four years since I started using Ubuntu on my old Dell Laptop, I would say that at least 60% of my time on a PC has been spent using Linux. Hence I will speak at greater length about them, than about the &#42;BSDs. The Linux distributions I have used on an actual computer (as opposed to on a virtual machine) include (with an estimate of how long I spent using each):
+
+* Arch Linux &mdash; which I am presently using and have spent at least three months using as my primary OS.
+* Fedora &mdash; which I have spent less than a week using.
+* Manjaro Linux &mdash; which I have spent at most a fortnight using.
+* openSUSE Tumbleweed &mdash; which I have spent about a fortnight using.
+* Sabayon Linux &mdash; I spent >3 months using this system.
+* Ubuntu &mdash; I spent roughly 1-3 years using this one (on and off, I switched a lot between it and Windows 7)
+
+while those I have used on a virtual machine (not including those I have also used on an actual computer) are far more numerous and are mentioned in a list on the [About Me Page](https://fusion809.github.io/about-me/) of this blog. 
 
 ## Footnotes
 [^1]: Which in itself is a variant, or *distribution* of Linux.
