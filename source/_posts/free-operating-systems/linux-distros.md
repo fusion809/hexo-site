@@ -13,4 +13,3 @@ while those I have used on a virtual machine (not including those I have also us
 The best distribution for you will depend on several variables, including:
 
 * How you use your computer, day-to-day. Do you spend most of your time using web browsers, office suites, music players, video players, gaming software, *etc.* or do you spend your time developing software of your own or building packages?
-j
