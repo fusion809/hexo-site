@@ -24,5 +24,4 @@ layout:  post
 
 {% include_markdown free-operating-systems/09-linux-distros %}
 
-## Footnotes
-[^1]: Which in itself is a variant, or *distribution* of Linux.
+{% include_markdown free-operating-systems/10-footnotes %}
