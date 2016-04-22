@@ -23,5 +23,3 @@ layout:  post
 {% include_markdown free-operating-systems/08-bsd %}
 
 {% include_markdown free-operating-systems/09-linux-distros %}
-
-{% include_markdown free-operating-systems/10-footnotes %}

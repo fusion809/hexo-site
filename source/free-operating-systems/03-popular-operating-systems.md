@@ -10,6 +10,6 @@ The most popular PC operating systems include (in descending order, that is, fro
 
 While the most popular mobile operating systems are (in descending order, again):
 
-* **Android**[^1]
+* **Android**
 * **iOS**
 * **Windows 10 Mobile**
