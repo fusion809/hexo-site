@@ -7,8 +7,8 @@ title:       The Hornery
 subtitle:
 description: "Where Brenton Horne stores his thoughts and guides relating to technology."
 author:      Brenton Horne
-language:
-timezone:
+language:    "en"
+timezone:    "Australia/Brisbane"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
