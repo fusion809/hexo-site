@@ -19,7 +19,7 @@ In modern times it seems like everyday we encounter some type of computer in our
 <meta property="og:site_name" content="The Hornery">
 <meta property="og:description" content="Note: This post is presently just a draft.
 In modern times it seems like everyday we encounter some type of computer in our day-to-day lives. Many people think that a computer is either a desktop or l">
-<meta property="og:updated_time" content="2016-04-22T04:11:24.430Z">
+<meta property="og:updated_time" content="2016-04-22T04:34:03.027Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Free Operating Systems: A Comparison and Overview">
 <meta name="twitter:description" content="Note: This post is presently just a draft.
@@ -182,7 +182,7 @@ In modern times it seems like everyday we encounter some type of computer in our
         </h1>
     
     <div class="post-meta">
-    <time itemprop="datePublished" content="Fri Apr 22 2016 14:11:24 GMT+1000">
+    <time itemprop="datePublished" content="Fri Apr 22 2016 14:34:03 GMT+1000">
 	
 		    Apr 22, 2016
     	
@@ -212,7 +212,7 @@ In modern times it seems like everyday we encounter some type of computer in our
 </ul>
 <p>While the most popular mobile operating systems are (in descending order, again):</p>
 <ul>
-<li><strong>Android</strong>[^1]</li>
+<li><strong>Android</strong></li>
 <li><strong>iOS</strong></li>
 <li><strong>Windows 10 Mobile</strong></li>
 </ul>
@@ -276,9 +276,6 @@ In modern times it seems like everyday we encounter some type of computer in our
 <ul>
 <li>How you use your computer, day-to-day. Do you spend most of your time using web browsers, office suites, music players, video players, gaming software, <em>etc.</em> or do you spend your time developing software of your own or building packages?</li>
 </ul>
-
-<h2>Footnotes</h2>
-<p>[^1]: Which in itself is a variant, or <em>distribution</em> of Linux.</p>
 
 
             
@@ -462,7 +459,22 @@ In modern times it seems like everyday we encounter some type of computer in our
 
         
 <div id="cover" style="background-image:url('/hexo-site/assets/images/cover.jpg');"></div>
-    </body>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
     <!--SCRIPTS-->
 <script src="/hexo-site/assets/js/scrip-tu4ziscb5jrkjxubeugdgizktyuugflfq5jvgz4agzzmwifuq01g1lmq8giw.min.js"></script>
 <!--SCRIPTS END-->
