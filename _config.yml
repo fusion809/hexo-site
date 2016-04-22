@@ -76,6 +76,7 @@ plugins:
 - hexo-renderer-mathjax
 - hexo-renderer-stylus
 - hexo-server
+- hexo-tag-markdown
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki/
